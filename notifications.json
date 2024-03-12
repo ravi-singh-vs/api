@@ -1,0 +1,72 @@
+[
+  {
+    "id": "1",
+    "image": "reflection",
+    "text": "Reminder of the day Unlocked\nComplete exercises for bonus points!",
+    "isRead": true,
+    "createdAt": 1710137798000
+  },
+  {
+    "id": "2",
+    "image": "reflection",
+    "text": "Reminder of the day Unlocked\nComplete exercises for bonus points!",
+    "isRead": true,
+    "createdAt":1710123398000
+  },
+  {
+    "id": "3",
+    "image": "reminder",
+    "text": "Reminder of the day Unlocked\nComplete exercises for bonus points!",
+    "isRead": false,
+    "createdAt": 1710036998000
+  },
+  {
+    "id": "4",
+    "image": "reminder",
+    "text": "Reminder of the day Unlocked\nComplete exercises for bonus points!",
+    "isRead": false,
+    "createdAt": 1709259398000
+  },
+  {
+    "id": "5",
+    "image": "D-active",
+    "text": "Reminder of the day Unlocked\nComplete exercises for bonus points!",
+    "isRead": false,
+    "createdAt": 1709172998000
+  },
+  {
+    "id": "6",
+    "image": "reminder",
+    "text": "Reminder of the day Unlocked\nComplete exercises for bonus points!",
+    "isRead": false,
+    "createdAt": 1707531398000
+  },
+  {
+    "id": "7",
+    "image": "reminder",
+    "text": "Reminder of the day Unlocked\nComplete exercises for bonus points!",
+    "isRead": false,
+    "createdAt": 1704852998000
+  },
+  {
+    "id": "8",
+    "image": "reminder",
+    "text": "Reminder of the day Unlocked\nComplete exercises for bonus points!",
+    "isRead": false,
+    "createdAt": 1673316998000
+  },
+  {
+    "id": "9",
+    "image": "reminder",
+    "text": "Reminder of the day Unlocked\nComplete exercises for bonus points!",
+    "isRead": false,
+    "createdAt": 1673144198000
+  },
+  {
+    "id": "10",
+    "image": "reflection",
+    "text": "Reminder of the day Unlocked\nComplete exercises for bonus points!",
+    "isRead": false,
+    "createdAt": 1672967550000
+  }
+]
